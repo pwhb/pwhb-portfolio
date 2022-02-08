@@ -1,0 +1,67 @@
+{
+    "years": [
+        {
+            "year": "2017",
+            "info": [
+                {
+                    "title": "Started Programming"
+                }
+            ]
+        },
+        {
+            "year": "2019",
+            "info": [
+                {
+                    "title": "Started working on freelance projects",
+                    "body": "Academic projects and small ones"
+                },
+                {
+                    "title": "B.Sc. (Hons)",
+                    "body": "Graduated from University of Yangon"
+                },
+                {
+                    "title": "Internship",
+                    "body": "Worked as a web developer (intern) at Majima Construction."
+                }
+            ]
+        },
+        {
+            "year": "2020",
+            "info": [
+                {
+                    "title": "Web Developer",
+                    "body": "Started working remotely as a web developer at CBT."
+                },
+                {
+                    "title": "Free Society Coding BootCamp",
+                    "body": "Volunteer teacher."
+                },
+                {
+                    "title": "G30 Research Program",
+                    "body": "Became a graduate research student at Nagoya University."
+                },
+                {
+                    "title": "Full Stack Developer",
+                    "body": "Became a full stack developer at CBT."
+                }
+            ]
+        },
+        {
+            "year": "2021",
+            "info": [
+                {
+                    "title": "Run Free Education",
+                    "body": "Volunteer Teacher"
+                },
+                {
+                    "title": "Mathematics for CDM Students",
+                    "body": "Volunteer Teacher"
+                },
+                {
+                    "title": "Easy Deals",
+                    "body": "Started working on a market app for domestic items."
+                }
+            ]
+        }
+    ]
+}

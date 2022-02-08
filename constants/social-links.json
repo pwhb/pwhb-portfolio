@@ -1,0 +1,34 @@
+{
+    "github": {
+        "url": "https://github.com/pwhb",
+        "icon": "https://www.vectorlogo.zone/logos/github/github-tile.svg"
+    },
+    "email": {
+        "url": "mailto:pwhbdev@gmail.com",
+        "icon": "https://www.svgrepo.com/show/349378/gmail.svg"
+    },
+    "phone": {
+        "url": "tel:959250967085",
+        "icon": "https://www.svgrepo.com/show/40527/phone-call.svg"
+    },
+    "telegram": {
+        "url": "https://t.me/pwhbdev",
+        "icon": "https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"
+    },
+    "linkedin": {
+        "url": "https://www.linkedin.com/in/phone-waiyam-hein-621b73221/",
+        "icon": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+    },
+    "facebook": {
+        "url": "https://www.facebook.com/broccolius/",
+        "icon": "https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"
+    },
+    "instagram": {
+        "url": "https://www.instagram.com/broccolipwh/",
+        "icon": "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
+    },
+    "resume": {
+        "url": "/resume/resume.pdf",
+        "icon": "https://www.svgrepo.com/show/262744/curriculum-vitae-portfolio.svg"
+    }
+}

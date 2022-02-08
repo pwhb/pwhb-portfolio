@@ -1,0 +1,224 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Phone Waiyam Hein",
+    "label": "Full Stack Developer",
+    "image": "https://github.com/pwhb/public/blob/main/images/square.jpg?raw=true",
+    "email": "pwhbdev@gmail.com",
+    "phone": "(959) 250967085",
+    "url": "http://pwhbdev.vercel.app",
+    "summary": "A full stack developer with a wide range of flexible skillsets and a reliable knowledge in developing applications using React (primarily), Vue, Svelte and Flutter, skilled in backend frameworks like Express, Django and Laravel. Passionate about maintaining consistency and optimizing performance utilizing the academic background in Mathematics. Experienced in OPP, MVC, MVT (Django) and MVVM (Android) and the best practices in full stack development.",
+    "location": {
+      "city": "Yangon",
+      "countryCode": "MY"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "pwhb",
+        "url": "https://github.com/pwhb"
+      },
+      {
+        "network": "Telegram",
+        "username": "@pwhbdev",
+        "url": "https://t.me/pwhbdev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Self",
+      "location": "Yangon",
+      "description": "Software Development",
+      "position": "Freelance Developer",
+      "imageUrl": "https://github.com/pwhb/public/blob/main/images/broccoli.jpg?raw=true",
+      "startDate": "2019-12-01",
+      "endDate": "",
+      "duration": "",
+      "summary": "",
+      "highlights": [
+        "Built a CRM for a subscription service",
+        "Designed personal blogs",
+        "Created social media bot webhooks",
+        "Created REST APIs"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Independently",
+      "position": "Teacher",
+      "startDate": "2021-06-01",
+      "endDate": "2021-12-01",
+      "summary": "Taught Mathematics to students participating in Civil Disobedience Moment",
+      "highlights": []
+    },
+    {
+      "organization": "Run Free Education",
+      "position": "Teacher",
+      "startDate": "2022-02-01",
+      "endDate": "",
+      "summary": "Currently teaching a full stack development class",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Yangon",
+      "url": "https://www.uy.edu.mm/",
+      "area": "Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2014-12-01",
+      "endDate": "2019-09-01",
+      "courses": [
+        "Fundamentals of Algorithms and Programming"
+      ]
+    },
+    {
+      "institution": "Nagoya University",
+      "url": "https://en.nagoya-u.ac.jp/",
+      "area": "Mathematics",
+      "studyType": "Graduate Research Program",
+      "startDate": "2020-09-01",
+      "endDate": "2021-03-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Expressjs",
+        "GraphQL",
+        "Django",
+        "Flask",
+        "Fastapi",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Svelte",
+        "Vue"
+      ]
+    },
+    {
+      "name": "Android",
+      "level": "Master",
+      "keywords": [
+        "Kotlin",
+        "React Native",
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "MongoDB",
+        "Postgres",
+        "MySQL",
+        "SQLite",
+        "Firebase Firestore"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Tensorflow",
+        "Neural Networks",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+        "Unity",
+        "Phaser",
+        "Love2D"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Easy Deals",
+      "description": "A market app for domestic items. Where it's easy to make a deal.",
+      "highlights": [],
+      "keywords": [
+        "Domestic",
+        "Deals",
+        "Shop"
+      ],
+      "startDate": "2021-07-24",
+      "endDate": "",
+      "url": "",
+      "photoUrls": [],
+      "iconUrl": "/projects/easy-deals/icon.png",
+      "roles": [
+        "Developer"
+      ],
+      "entity": "",
+      "type": "application",
+      "platform": "android"
+    },
+    {
+      "name": "Study Buddy",
+      "description": "Find a buddy to study with.",
+      "highlights": [],
+      "keywords": [
+        "Study",
+        "Connect"
+      ],
+      "startDate": "2021-11-01",
+      "endDate": "",
+      "url": "",
+      "iconUrl": "/projects/study-buddy/icon.png",
+      "photoUrls": [],
+      "roles": [
+        "Developer"
+      ],
+      "entity": "",
+      "type": "application",
+      "platform": "android"
+    },
+    {
+      "name": "Strawberry Space",
+      "description": "A real estate app with an AI to estimate the price.",
+      "highlights": [],
+      "keywords": [
+        "Home",
+        "Real Estate",
+        "Linear Regression"
+      ],
+      "startDate": "2021-10-01",
+      "endDate": "",
+      "url": "",
+      "iconUrl": "/projects/strawberry-space/icon.svg",
+      "photoUrls": [],
+      "roles": [
+        "Developer"
+      ],
+      "entity": "",
+      "type": "application",
+      "platform": "web"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
