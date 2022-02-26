@@ -32,7 +32,7 @@
       "description": "Software Development",
       "position": "Freelance Developer",
       "imageUrl": "https://github.com/pwhb/public/blob/main/images/broccoli.jpg?raw=true",
-      "startDate": "2019-12-01",
+      "startDate": "2019-04-01",
       "endDate": "",
       "duration": "",
       "summary": "",
@@ -40,7 +40,8 @@
         "Built a CRM for a subscription service",
         "Designed personal blogs",
         "Created social media bot webhooks",
-        "Created REST APIs"
+        "Created REST APIs",
+        "Worked for an online university"
       ]
     }
   ],
@@ -207,7 +208,12 @@
       "endDate": "",
       "url": "",
       "iconUrl": "/projects/strawberry-space/icon.svg",
-      "photoUrls": [],
+      "photoUrls": [
+      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/01.png?raw=true",
+      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/02.png?raw=true",
+      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/03.png?raw=true",
+      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/04.png?raw=true"
+      ],
       "roles": [
         "Developer"
       ],
