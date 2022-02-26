@@ -30,11 +30,13 @@ const Projects = () => {
             </h4>
             <div className="flex flex-row flex-wrap justify-center m-6">
               {item.photoUrls.map((img, idx) => (
-                <img
-                  src={img}
-                  id={idx}
-                  className="md:w-48 md:hover:scale-125 hover:scale-110 m-6"
-                />
+                <a key={idx} href={img} target="_blank">
+                  <img
+                    src={img}
+                    id={idx}
+                    className="md:w-96 md:hover:scale-150 hover:scale-110 m-2"
+                  />
+                </a>
               ))}
             </div>
             <div className="text-center mb-3">

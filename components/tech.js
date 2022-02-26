@@ -5,12 +5,12 @@ const tech = [
   {
     name: "Backend",
     icons: [
+      icons.laravel,
       icons.expressjs,
       icons.graphql,
       icons.django,
       icons.flask,
       icons.fastapi,
-      icons.laravel,
     ],
   },
   {
@@ -44,6 +44,7 @@ const tech = [
       icons.java,
       icons.kotlin,
       icons.cpp,
+      icons.csharp,
       icons.lua,
       icons.python,
       icons.php,

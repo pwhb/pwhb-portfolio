@@ -7,7 +7,7 @@
     "email": "pwhbdev@gmail.com",
     "phone": "(959) 250967085",
     "url": "http://pwhbdev.vercel.app",
-    "summary": "A full stack developer with a wide range of flexible skillsets and a reliable knowledge in developing applications using React (primarily), Vue, Svelte and Flutter, skilled in backend frameworks like Express, Django and Laravel. Passionate about maintaining consistency and optimizing performance utilizing the academic background in Mathematics. Experienced in OPP, MVC, MVT (Django) and MVVM (Android) and the best practices in full stack development.",
+    "summary": "A full stack developer with a wide range of flexible skillsets and a reliable knowledge in developing scalable applications using React (primarily), Vue, Svelte and Flutter, skilled in backend frameworks like Laravel, Express, Django and Flask. Passionate about maintaining consistency and optimizing performance utilizing the academic background in Mathematics. Experienced in OPP, MVC, MVT (Django) and MVVM (Android) and the best practices in full stack development.",
     "location": {
       "city": "Yangon",
       "countryCode": "MY"
@@ -37,11 +37,13 @@
       "duration": "",
       "summary": "",
       "highlights": [
-        "Built a CRM for a subscription service",
         "Designed personal blogs",
-        "Created social media bot webhooks",
-        "Created REST APIs",
-        "Worked for an online university"
+        "Built a CRM for a subscription service",
+        "Built online shop websites",
+        "Built an E-commerce app from scratch",
+        "Worked for an online university",
+        "Created social media chat bot webhooks",
+        "Created REST APIs and wrote documentations"
       ]
     }
   ],
@@ -71,9 +73,7 @@
       "studyType": "Bachelor",
       "startDate": "2014-12-01",
       "endDate": "2019-09-01",
-      "courses": [
-        "Fundamentals of Algorithms and Programming"
-      ]
+      "courses": ["Fundamentals of Algorithms and Programming"]
     },
     {
       "institution": "Nagoya University",
@@ -90,31 +90,24 @@
       "name": "Backend",
       "level": "Master",
       "keywords": [
-        "Expressjs",
-        "GraphQL",
+        "Laravel",
         "Django",
         "Flask",
         "Fastapi",
-        "Laravel"
+        "Expressjs",
+        "GraphQL",
+        "Gin"
       ]
     },
     {
       "name": "Frontend",
       "level": "Master",
-      "keywords": [
-        "React",
-        "Svelte",
-        "Vue"
-      ]
+      "keywords": ["React", "Svelte", "Vue"]
     },
     {
       "name": "Android",
       "level": "Master",
-      "keywords": [
-        "Kotlin",
-        "React Native",
-        "Flutter"
-      ]
+      "keywords": ["Kotlin", "React Native", "Flutter"]
     },
     {
       "name": "Database",
@@ -125,6 +118,23 @@
         "MySQL",
         "SQLite",
         "Firebase Firestore"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "C++",
+        "C#",
+        "Java",
+        "Kotlin",
+        "Go",
+        "Dart",
+        "PHP",
+        "Python",
+        "JavaScript",
+        "Lua",
+        "R"
       ]
     }
   ],
@@ -137,40 +147,46 @@
   "interests": [
     {
       "name": "Artificial Intelligence",
-      "keywords": [
-        "Tensorflow",
-        "Neural Networks",
-        "Deep Learning"
-      ]
+      "keywords": ["Tensorflow", "Neural Networks", "Deep Learning"]
     },
     {
       "name": "Game Development",
-      "keywords": [
-        "Unity",
-        "Phaser",
-        "Love2D"
-      ]
+      "keywords": ["Godot", "Phaser", "Love2D"]
     }
   ],
   "references": [],
   "projects": [
     {
+      "name": "Strawberry Space",
+      "description": "A real estate app with an AI to estimate the price.",
+      "highlights": [],
+      "keywords": ["Home", "Real Estate", "Linear Regression"],
+      "startDate": "2021-10-01",
+      "endDate": "",
+      "url": "https://strawberry-space.vercel.app/en",
+      "iconUrl": "/projects/strawberry-space/icon.svg",
+      "photoUrls": [
+        "https://github.com/pwhb/public/blob/main/images/strawberry_space/01.png?raw=true",
+        "https://github.com/pwhb/public/blob/main/images/strawberry_space/02.png?raw=true",
+        "https://github.com/pwhb/public/blob/main/images/strawberry_space/03.png?raw=true",
+        "https://github.com/pwhb/public/blob/main/images/strawberry_space/04.png?raw=true"
+      ],
+      "roles": ["Developer"],
+      "entity": "",
+      "type": "application",
+      "platform": "web"
+    },
+    {
       "name": "Easy Deals",
       "description": "A market app for domestic items. Where it's easy to make a deal.",
       "highlights": [],
-      "keywords": [
-        "Domestic",
-        "Deals",
-        "Shop"
-      ],
+      "keywords": ["Domestic", "Deals", "Shop"],
       "startDate": "2021-07-24",
       "endDate": "",
       "url": "",
       "photoUrls": [],
       "iconUrl": "/projects/easy-deals/icon.png",
-      "roles": [
-        "Developer"
-      ],
+      "roles": ["Developer"],
       "entity": "",
       "type": "application",
       "platform": "android"
@@ -179,47 +195,16 @@
       "name": "Study Buddy",
       "description": "Find a buddy to study with.",
       "highlights": [],
-      "keywords": [
-        "Study",
-        "Connect"
-      ],
+      "keywords": ["Study", "Connect"],
       "startDate": "2021-11-01",
       "endDate": "",
       "url": "",
       "iconUrl": "/projects/study-buddy/icon.png",
       "photoUrls": [],
-      "roles": [
-        "Developer"
-      ],
+      "roles": ["Developer"],
       "entity": "",
       "type": "application",
       "platform": "android"
-    },
-    {
-      "name": "Strawberry Space",
-      "description": "A real estate app with an AI to estimate the price.",
-      "highlights": [],
-      "keywords": [
-        "Home",
-        "Real Estate",
-        "Linear Regression"
-      ],
-      "startDate": "2021-10-01",
-      "endDate": "",
-      "url": "",
-      "iconUrl": "/projects/strawberry-space/icon.svg",
-      "photoUrls": [
-      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/01.png?raw=true",
-      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/02.png?raw=true",
-      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/03.png?raw=true",
-      	"https://github.com/pwhb/public/blob/main/images/strawberry_space/04.png?raw=true"
-      ],
-      "roles": [
-        "Developer"
-      ],
-      "entity": "",
-      "type": "application",
-      "platform": "web"
     }
   ],
   "meta": {

@@ -1,170 +1,175 @@
 {
-    "typeScript": {
-        "image": "https://cdn.worldvectorlogo.com/logos/typescript.svg",
-        "url": "https://www.typescriptlang.org/"
-    },
-    "vue": {
-        "image": "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg",
-        "url": "https://vuejs.org/"
-    },
-    "svelte": {
-        "image": "https://www.svgrepo.com/show/354416/svelte-icon.svg",
-        "url": "https://svelte.dev/"
-    },
-    "fastapi": {
-        "image": "https://www.svgrepo.com/show/330413/fastapi.svg",
-        "url": "https://fastapi.tiangolo.com/"
-    },
-    "flask": {
-        "image": "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg",
-        "url": "https://flask.palletsprojects.com/"
-    },
-    "flutter": {
-        "image": "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg",
-        "url": "https://flutter.dev/"
-    },
-    "dart": {
-        "image": "https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg",
-        "url": "https://dart.dev/"
-    },
-    "firebase": {
-        "image": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-        "url": "https://firebase.google.com/"
-    },
-    "nodejs": {
-        "image": "https://cdn.worldvectorlogo.com/logos/nodejs-1.svg",
-        "url": "https://nodejs.org/en/"
-    },
-    "expressjs": {
-        "image": "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
-        "url": "https://expressjs.com/"
-    },
-    "html": {
-        "image": "https://cdn.worldvectorlogo.com/logos/html-1.svg",
-        "url": "https://html.com/"
-    },
-    "javaScript": {
-        "image": "https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg",
-        "url": "https://www.javascript.com/"
-    },
-    "oldJs": {
-        "image": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
-        "url": "https://www.javascript.com/"
-    },
-    "css": {
-        "image": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
-        "url": "https://www.w3schools.com/css/"
-    },
-    "jquery": {
-        "image": "https://cdn.worldvectorlogo.com/logos/jquery-2.svg",
-        "url": "https://jquery.com/"
-    },
-    "next": {
-        "image": "https://cdn.worldvectorlogo.com/logos/next-js.svg",
-        "url": "https://nextjs.org/"
-    },
-    "react": {
-        "image": "https://cdn.worldvectorlogo.com/logos/react-2.svg",
-        "url": "https://reactjs.org/"
-    },
-    "angular": {
-        "image": "https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg",
-        "url": "https://angular.io/"
-    },
-    "reactNative": {
-        "image": "https://cdn.worldvectorlogo.com/logos/react-native-1.svg",
-        "url": "https://reactnative.dev/"
-    },
-    "apollo": {
-        "image": "https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg",
-        "url": "https://www.apollographql.com/docs/apollo-server/getting-started/"
-    },
-    "graphql": {
-        "image": "https://cdn.worldvectorlogo.com/logos/graphql.svg",
-        "url": "https://graphql.org/"
-    },
-    "python": {
-        "image": "https://cdn.worldvectorlogo.com/logos/python-5.svg",
-        "url": "https://www.python.org/"
-    },
-    "django": {
-        "image": "https://cdn.worldvectorlogo.com/logos/django-community.svg",
-        "url": "http://www.djangoproject.com/"
-    },
-    "php": {
-        "image": "https://cdn.worldvectorlogo.com/logos/php.svg",
-        "url": "https://www.php.net/"
-    },
-    "laravel": {
-        "image": "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
-        "url": "https://laravel.com/"
-    },
-    "cpp": {
-        "image": "https://cdn.worldvectorlogo.com/logos/c.svg",
-        "url": "https://www.cplusplus.com/"
-    },
-    "java": {
-        "image": "https://cdn.worldvectorlogo.com/logos/java-4.svg",
-        "url": "https://java.com/en/"
-    },
-    "kotlin": {
-        "image": "https://cdn.worldvectorlogo.com/logos/kotlin-1.svg",
-        "url": "https://kotlinlang.org/"
-    },
-    "lua": {
-        "image": "https://cdn.worldvectorlogo.com/logos/lua-5.svg",
-        "url": "https://www.lua.org/"
-    },
-    "socketio": {
-        "image": "https://cdn.worldvectorlogo.com/logos/socket-io-1.svg",
-        "url": "https://socket.io/"
-    },
-    "redux": {
-        "image": "https://cdn.worldvectorlogo.com/logos/redux.svg",
-        "url": "https://redux.js.org/"
-    },
-    "bootstrap": {
-        "image": "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg",
-        "url": "https://getbootstrap.com/"
-    },
-    "tailwindcss": {
-        "image": "https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg",
-        "url": "https://tailwindcss.com/"
-    },
-    "mui": {
-        "image": "https://cdn.worldvectorlogo.com/logos/material-ui-1.svg",
-        "url": "https://mui.com/"
-    },
-    "semantic": {
-        "image": "https://cdn.worldvectorlogo.com/logos/semantic-ui.svg",
-        "url": "https://semantic-ui.com/"
-    },
-    "mocha": {
-        "image": "https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg",
-        "url": "https://mochajs.org/"
-    },
-    "mysql": {
-        "image": "https://cdn.worldvectorlogo.com/logos/mysql-6.svg",
-        "url": "https://www.mysql.com/"
-    },
-    "postgres": {
-        "image": "https://cdn.worldvectorlogo.com/logos/postgresql.svg",
-        "url": "https://www.postgresql.org/"
-    },
-    "sqlite": {
-        "image": "https://cdn.worldvectorlogo.com/logos/sqlite.svg",
-        "url": "https://www.sqlite.org/"
-    },
-    "mongodb": {
-        "image": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
-        "url": "https://www.mongodb.com/"
-    },
-    "d3": {
-        "image": "https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg",
-        "url": "https://d3js.org/"
-    },
-    "git": {
-        "image": "https://cdn.worldvectorlogo.com/logos/git-icon.svg",
-        "url": "https://git-scm.com/"
-    }
+  "typeScript": {
+    "image": "https://cdn.worldvectorlogo.com/logos/typescript.svg",
+    "url": "https://www.typescriptlang.org/"
+  },
+  "vue": {
+    "image": "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg",
+    "url": "https://vuejs.org/"
+  },
+  "svelte": {
+    "image": "https://www.svgrepo.com/show/354416/svelte-icon.svg",
+    "url": "https://svelte.dev/"
+  },
+  "fastapi": {
+    "image": "https://www.svgrepo.com/show/330413/fastapi.svg",
+    "url": "https://fastapi.tiangolo.com/"
+  },
+  "flask": {
+    "image": "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg",
+    "url": "https://flask.palletsprojects.com/"
+  },
+  "flutter": {
+    "image": "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg",
+    "url": "https://flutter.dev/"
+  },
+  "dart": {
+    "image": "https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg",
+    "url": "https://dart.dev/"
+  },
+  "firebase": {
+    "image": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+    "url": "https://firebase.google.com/"
+  },
+  "nodejs": {
+    "image": "https://cdn.worldvectorlogo.com/logos/nodejs-1.svg",
+    "url": "https://nodejs.org/en/"
+  },
+  "expressjs": {
+    "image": "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
+    "url": "https://expressjs.com/"
+  },
+  "html": {
+    "image": "https://cdn.worldvectorlogo.com/logos/html-1.svg",
+    "url": "https://html.com/"
+  },
+  "javaScript": {
+    "image": "https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg",
+    "url": "https://www.javascript.com/"
+  },
+  "oldJs": {
+    "image": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
+    "url": "https://www.javascript.com/"
+  },
+  "css": {
+    "image": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+    "url": "https://www.w3schools.com/css/"
+  },
+  "jquery": {
+    "image": "https://cdn.worldvectorlogo.com/logos/jquery-2.svg",
+    "url": "https://jquery.com/"
+  },
+  "next": {
+    "image": "https://cdn.worldvectorlogo.com/logos/next-js.svg",
+    "url": "https://nextjs.org/"
+  },
+  "react": {
+    "image": "https://cdn.worldvectorlogo.com/logos/react-2.svg",
+    "url": "https://reactjs.org/"
+  },
+  "angular": {
+    "image": "https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg",
+    "url": "https://angular.io/"
+  },
+  "reactNative": {
+    "image": "https://cdn.worldvectorlogo.com/logos/react-native-1.svg",
+    "url": "https://reactnative.dev/"
+  },
+  "apollo": {
+    "image": "https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg",
+    "url": "https://www.apollographql.com/docs/apollo-server/getting-started/"
+  },
+  "graphql": {
+    "image": "https://cdn.worldvectorlogo.com/logos/graphql.svg",
+    "url": "https://graphql.org/"
+  },
+  "python": {
+    "image": "https://cdn.worldvectorlogo.com/logos/python-5.svg",
+    "url": "https://www.python.org/"
+  },
+  "django": {
+    "image": "https://cdn.worldvectorlogo.com/logos/django-community.svg",
+    "url": "http://www.djangoproject.com/"
+  },
+  "php": {
+    "image": "https://cdn.worldvectorlogo.com/logos/php.svg",
+    "url": "https://www.php.net/"
+  },
+  "laravel": {
+    "image": "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
+    "url": "https://laravel.com/"
+  },
+  "csharp": {
+    "image": "https://cdn.worldvectorlogo.com/logos/c--4.svg",
+    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  },
+  "cpp": {
+    "image": "https://cdn.worldvectorlogo.com/logos/c.svg",
+    "url": "https://www.cplusplus.com/"
+  },
+  "java": {
+    "image": "https://cdn.worldvectorlogo.com/logos/java-4.svg",
+    "url": "https://java.com/en/"
+  },
+  "kotlin": {
+    "image": "https://cdn.worldvectorlogo.com/logos/kotlin-1.svg",
+    "url": "https://kotlinlang.org/"
+  },
+  "lua": {
+    "image": "https://cdn.worldvectorlogo.com/logos/lua-5.svg",
+    "url": "https://www.lua.org/"
+  },
+  "socketio": {
+    "image": "https://cdn.worldvectorlogo.com/logos/socket-io-1.svg",
+    "url": "https://socket.io/"
+  },
+  "redux": {
+    "image": "https://cdn.worldvectorlogo.com/logos/redux.svg",
+    "url": "https://redux.js.org/"
+  },
+  "bootstrap": {
+    "image": "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg",
+    "url": "https://getbootstrap.com/"
+  },
+  "tailwindcss": {
+    "image": "https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg",
+    "url": "https://tailwindcss.com/"
+  },
+  "mui": {
+    "image": "https://cdn.worldvectorlogo.com/logos/material-ui-1.svg",
+    "url": "https://mui.com/"
+  },
+  "semantic": {
+    "image": "https://cdn.worldvectorlogo.com/logos/semantic-ui.svg",
+    "url": "https://semantic-ui.com/"
+  },
+  "mocha": {
+    "image": "https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg",
+    "url": "https://mochajs.org/"
+  },
+  "mysql": {
+    "image": "https://cdn.worldvectorlogo.com/logos/mysql-6.svg",
+    "url": "https://www.mysql.com/"
+  },
+  "postgres": {
+    "image": "https://cdn.worldvectorlogo.com/logos/postgresql.svg",
+    "url": "https://www.postgresql.org/"
+  },
+  "sqlite": {
+    "image": "https://cdn.worldvectorlogo.com/logos/sqlite.svg",
+    "url": "https://www.sqlite.org/"
+  },
+  "mongodb": {
+    "image": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+    "url": "https://www.mongodb.com/"
+  },
+  "d3": {
+    "image": "https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg",
+    "url": "https://d3js.org/"
+  },
+  "git": {
+    "image": "https://cdn.worldvectorlogo.com/logos/git-icon.svg",
+    "url": "https://git-scm.com/"
+  }
 }
+
